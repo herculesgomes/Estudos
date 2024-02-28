@@ -1,0 +1,87 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "nome": "Bolo de Chocolate",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "1 xícara de chocolate em pó",
+        "1 xícara de leite",
+        "1/2 xícara de óleo",
+        "2 ovos",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "modoPreparo": "Em uma tigela, misture a farinha, o açúcar e o chocolate em pó. Adicione o leite, o óleo e os ovos, misturando bem. Por fim, adicione o fermento e misture novamente. Despeje a massa em uma forma untada e leve ao forno preaquecido a 180°C por cerca de 40 minutos."
+    },
+    {
+      "id": "2",
+      "nome": "Bolo",
+      "ingredientes": [
+        "3 xícaras de farinha de trigo",
+        "2 xícaras de açúcar",
+        "1 xícara de leite",
+        "1/2 xícara de óleo",
+        "4 ovos",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "modoPreparo": "Em uma tigela, misture a farinha e o açúcar. Adicione o leite, o óleo e os ovos, misturando bem. Por fim, adicione o fermento e misture novamente. Despeje a massa em uma forma untada e leve ao forno preaquecido a 180°C por cerca de 35 minutos."
+    },
+    {
+      "id": "3",
+      "nome": "Churros",
+      "ingredientes": [
+        "1 xícara de água",
+        "2 colheres de sopa de manteiga",
+        "1 pitada de sal",
+        "1 xícara de farinha de trigo",
+        "3 ovos",
+        "Óleo para fritar",
+        "Açúcar e canela para polvilhar"
+      ],
+      "modoPreparo": "Em uma panela, coloque a água, a manteiga e o sal, e leve ao fogo até ferver. Adicione a farinha de trigo de uma só vez e mexa bem até formar uma massa homogênea. Retire do fogo e adicione os ovos um a um, mexendo bem após cada adição. Coloque a massa em um saco de confeitar com bico em formato de estrela. Aqueça o óleo em uma panela e, com o saco de confeitar, faça os churros no óleo quente. Frite até dourar. Retire do óleo e escorra em papel-toalha. Passe os churros na mistura de açúcar e canela."
+    },
+    {
+      "id": "4",
+      "nome": "Coockie",
+      "ingredientes": [
+        "1 xícara de manteiga",
+        "1 xícara de açúcar",
+        "1 xícara de açúcar mascavo",
+        "2 ovos",
+        "1 colher de chá de essência de baunilha",
+        "3 xícaras de farinha de trigo",
+        "1 colher de chá de bicarbonato de sódio",
+        "1/2 colher de chá de sal",
+        "2 xícaras de gotas de chocolate"
+      ],
+      "modoPreparo": "Em uma tigela, bata a manteiga, o açúcar e o açúcar mascavo até obter uma mistura cremosa. Adicione os ovos um a um, batendo bem após cada adição. Misture a essência de baunilha. Em outra tigela, misture a farinha, o bicarbonato de sódio e o sal. Aos poucos, adicione os ingredientes secos à mistura de manteiga, mexendo bem. Por fim, adicione as gotas de chocolate. Faça bolinhas com a massa e coloque em uma forma untada. Leve ao forno preaquecido a 180°C por cerca de 10-12 minutos."
+    },
+    {
+      "id": "5",
+      "nome": "Pudim",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "2 latas de leite (use a lata de leite condensado como medida)",
+        "3 ovos",
+        "1 xícara de açúcar"
+      ],
+      "modoPreparo": "Em uma forma de pudim, derreta o açúcar até ficar caramelizado e reserve. No liquidificador, bata o leite condensado, o leite e os ovos até obter uma mistura homogênea. Despeje a mistura na forma caramelizada e cubra com papel-alumínio. Leve ao forno em banho-maria a 180°C por cerca de 1 hora e 30 minutos. Espere esfriar e leve à geladeira por algumas horas antes de desenformar."
+    },
+    {
+      "id": "6",
+      "nome": "Rosquinha",
+      "ingredientes": [
+        "3 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "1 xícara de leite",
+        "1/2 xícara de manteiga derretida",
+        "2 ovos",
+        "1 colher de sopa de fermento em pó",
+        "Óleo para fritar",
+        "Açúcar e canela para polvilhar"
+      ],
+      "modoPreparo": "Em uma tigela, misture a farinha e o açúcar. Adicione o leite, a manteiga derretida e os ovos, misturando bem. Por fim, adicione o fermento e misture novamente. Faça bolinhas com a massa e faça um furo no centro de cada bolinha para formar as rosquinhas. Aqueça o óleo em uma panela e frite as rosquinhas até dourar. Retire do óleo e escorra em papel-toalha. Passe as rosquinhas na mistura de açúcar e canela."
+    }
+  ]
+}
